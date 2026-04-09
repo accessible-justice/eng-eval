@@ -26,19 +26,26 @@ You're free to:
 
 ## Tasks
 
-See the [open issues](../../issues). Each is self-contained.
+| Issue | Topic | Required | Est. Time |
+|---|---|---|---|
+| [Issue 1](../../issues/1) | Pagination | **Yes** | ~1 hr |
+| [Issue 2](../../issues/2) | Refactor / extensibility | Pick 1–2 | ~1 hr |
+| [Issue 3](../../issues/3) | Design doc | Pick 1–2 | ~1 hr |
+| [Issue 4](../../issues/4) | Input validation | Pick 1–2 | ~1 hr |
+| [Issue 5](../../issues/5) | Code review / debug | Pick 1–2 | ~45 min |
 
-**Prioritize Issue 1**, then pick from the rest based on time and interest. You don't need to complete all of them.
+**Start with Issue 1.** Then choose 1–2 from Issues 2–5 based on what best shows your strengths.
 
-Issue 5 is a debug task — recommended if you want to demonstrate code review instincts.
+Each issue has a **follow-up section** — treat it as a bonus. Do it if you have time; skip it if you don't. We'd rather see Issue 1 done well than five issues done hastily.
 
 ## What we look for in every task
 
 Each issue asks you to:
 1. **Implement or analyze** something concrete
 2. **Explain your reasoning** — tradeoffs, structure, alternatives you considered
-3. **Handle a follow-up change** — shows whether your design survives contact with reality
-4. **Think about correctness** — edge cases, failure modes, how you'd verify it works
+3. **Think about correctness** — edge cases, failure modes, how you'd verify it works
+
+The follow-up in each issue is a bonus that shows whether your design survives a requirement change.
 
 We've deliberately left some things open-ended. If you make an assumption, write it down — that's what we'd expect on the job.
 
